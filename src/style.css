@@ -1,0 +1,25 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+button {
+  margin: 0 10px 10px 10px;
+}
+
+.card {
+  height: 50px;
+  width: 80px;
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.my-textbox {
+  width: 15%;
+}
+
+.red-icon {
+  color: red;
+  font-size: 15px;
+}
