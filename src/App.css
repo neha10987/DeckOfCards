@@ -1,0 +1,34 @@
+.my-btn {
+  margin: 10px;
+  display: inline-block;
+}
+
+.card {
+  height: 10%;
+  width: 10%;
+  /* display: inline-block; */
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.my-textbox {
+  width: 2%;
+  height: 4%;
+  margin: 10px;
+  display: inline-block;
+}
+
+.card-div, .btn-div {  
+  display: flex;
+  margin-left: 3px;
+}
+
+.red-icon {
+  color: red;
+  font-size: 15px;
+}
+
+.black-icon {
+  color: black;
+  font-size: 15px;
+}
